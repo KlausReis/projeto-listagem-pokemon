@@ -35,6 +35,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
+Este foi o primeiro projeto que eu desenvolvi em parceria com o DevEmDobro.
+Foi bem desafiador, pois nunca havia tido contato com a área da programação e este desafiador projeto muito me ajudou a ter uma nova perspectiva de profissão.
 
 ## :memo: Licença
 
